@@ -1,0 +1,31 @@
+{
+  "name": "rss-reader",
+  "version": "0.0.1",
+  "description": "Fetches rss feeds from subscribed channels.",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "~0.8.5",
+    "jade": "~1.1.5",
+    "mongojs": "~0.10.0",
+    "express": "~3.4.8",
+    "request": "~2.33.0",
+    "xml2js": "~0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prashant-git/rss-reader.git"
+  },
+  "keywords": [
+    "rss"
+  ],
+  "author": "prashant-git",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashant-git/rss-reader/issues"
+  },
+  "homepage": "https://github.com/prashant-git/rss-reader"
+}
